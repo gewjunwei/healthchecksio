@@ -1,7 +1,7 @@
 
 #!/bin/bash
 # Get DataDir location
-DATA_DIR="/mnt/data"
+DATA_DIR="/data"
 
 ## Store crontab files in ${DATA_DIR}/cronjobs/ (you will need to create this folder).
 ## This script will re-add them on startup.
